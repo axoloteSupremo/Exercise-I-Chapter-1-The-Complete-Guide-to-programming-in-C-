@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+/*******************************************************
+ Oh what 
+ a happy day! 
+ Oh yes, 
+ what a happy day!
+ ******************************************************/
+
+
+int main() {
+    cout << "Oh what \na happy day!" << '\n';
+    cout << "Oh yes," << endl << "what a happy day!" << endl;
+    
+    return 0; 
+
+}
+
